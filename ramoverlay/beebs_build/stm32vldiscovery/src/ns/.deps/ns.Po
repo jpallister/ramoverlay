@@ -1,0 +1,4 @@
+ns.o: ../../../../beebs/src/ns/ns.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

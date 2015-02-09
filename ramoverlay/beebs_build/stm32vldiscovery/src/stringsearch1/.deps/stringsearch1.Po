@@ -1,0 +1,4 @@
+stringsearch1.o: ../../../../beebs/src/stringsearch1/stringsearch1.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

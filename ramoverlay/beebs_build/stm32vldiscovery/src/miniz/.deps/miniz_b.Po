@@ -1,0 +1,4 @@
+miniz_b.o: ../../../../beebs/src/miniz/miniz_b.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

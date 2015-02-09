@@ -1,0 +1,4 @@
+prime.o: ../../../../beebs/src/prime/prime.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

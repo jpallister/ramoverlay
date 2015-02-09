@@ -1,0 +1,4 @@
+ludcmp.o: ../../../../beebs/src/ludcmp/ludcmp.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

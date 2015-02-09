@@ -1,0 +1,4 @@
+janne_complex.o: ../../../../beebs/src/janne_complex/janne_complex.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

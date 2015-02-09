@@ -1,0 +1,4 @@
+compress.o: ../../../../beebs/src/compress/compress.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

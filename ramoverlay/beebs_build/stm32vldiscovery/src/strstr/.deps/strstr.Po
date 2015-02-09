@@ -1,0 +1,4 @@
+strstr.o: ../../../../beebs/src/strstr/strstr.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

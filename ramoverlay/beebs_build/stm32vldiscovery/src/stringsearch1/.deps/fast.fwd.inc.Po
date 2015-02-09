@@ -1,0 +1,1 @@
+fast.fwd.inc.o: ../../../../beebs/src/stringsearch1/fast.fwd.inc.c

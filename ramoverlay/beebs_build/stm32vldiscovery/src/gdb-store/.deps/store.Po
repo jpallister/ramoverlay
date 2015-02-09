@@ -1,0 +1,4 @@
+store.o: ../../../../beebs/src/gdb-store/store.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

@@ -1,0 +1,4 @@
+ud.o: ../../../../beebs/src/ud/ud.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

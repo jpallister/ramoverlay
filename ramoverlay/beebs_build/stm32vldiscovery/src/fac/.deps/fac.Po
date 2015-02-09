@@ -1,0 +1,4 @@
+fac.o: ../../../../beebs/src/fac/fac.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

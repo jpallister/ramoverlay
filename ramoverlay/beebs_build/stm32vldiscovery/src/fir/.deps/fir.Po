@@ -1,0 +1,4 @@
+fir.o: ../../../../beebs/src/fir/fir.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

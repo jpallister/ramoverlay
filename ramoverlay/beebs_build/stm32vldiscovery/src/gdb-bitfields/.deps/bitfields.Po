@@ -1,0 +1,4 @@
+bitfields.o: ../../../../beebs/src/gdb-bitfields/bitfields.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

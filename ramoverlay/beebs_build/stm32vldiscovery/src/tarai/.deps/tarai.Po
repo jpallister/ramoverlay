@@ -1,0 +1,4 @@
+tarai.o: ../../../../beebs/src/tarai/tarai.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

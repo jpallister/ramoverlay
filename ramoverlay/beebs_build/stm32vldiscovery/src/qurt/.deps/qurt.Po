@@ -1,0 +1,4 @@
+qurt.o: ../../../../beebs/src/qurt/qurt.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

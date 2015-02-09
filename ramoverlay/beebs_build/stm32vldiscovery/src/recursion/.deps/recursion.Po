@@ -1,0 +1,4 @@
+recursion.o: ../../../../beebs/src/recursion/recursion.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

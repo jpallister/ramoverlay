@@ -1,0 +1,4 @@
+minver.o: ../../../../beebs/src/minver/minver.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

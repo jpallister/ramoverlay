@@ -1,0 +1,4 @@
+advance.o: ../../../../beebs/src/gdb-advance/advance.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

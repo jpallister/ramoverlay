@@ -1,0 +1,4 @@
+constvars.o: ../../../../beebs/src/gdb-constvars/constvars.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

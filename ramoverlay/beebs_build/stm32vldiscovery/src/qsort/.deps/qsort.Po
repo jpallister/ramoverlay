@@ -1,0 +1,4 @@
+qsort.o: ../../../../beebs/src/qsort/qsort.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

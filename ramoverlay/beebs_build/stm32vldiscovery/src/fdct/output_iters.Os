@@ -1,0 +1,13 @@
+fdct.s:110 4096
+fdct.s:127 32768
+fdct.s:20 4096
+fdct.s:239 4096
+fdct.s:257 1
+fdct.s:269 4096
+fdct.s:275 1
+fdct.s:277 64
+fdct.s:283 64
+fdct.s:286 1
+fdct.s:288 0
+fdct.s:290 1
+fdct.s:31 32768

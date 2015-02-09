@@ -1,0 +1,33 @@
+des.o: ../../../../beebs/src/nettle-des/des.c \
+ ../../../../beebs/src/platformcode/platformcode.h \
+ /usr/lib/gcc/arm-none-eabi/4.8.3/include/stdint.h \
+ /usr/arm-none-eabi/include/stdint.h /usr/arm-none-eabi/include/_ansi.h \
+ /usr/arm-none-eabi/include/newlib.h \
+ /usr/arm-none-eabi/include/sys/config.h \
+ /usr/arm-none-eabi/include/machine/ieeefp.h \
+ /usr/arm-none-eabi/include/sys/features.h \
+ ../../../../beebs/src/nettle-des/desCode.h \
+ ../../../../beebs/src/nettle-des/keymap.h \
+ ../../../../beebs/src/nettle-des/rotors.h
+
+../../../../beebs/src/platformcode/platformcode.h:
+
+/usr/lib/gcc/arm-none-eabi/4.8.3/include/stdint.h:
+
+/usr/arm-none-eabi/include/stdint.h:
+
+/usr/arm-none-eabi/include/_ansi.h:
+
+/usr/arm-none-eabi/include/newlib.h:
+
+/usr/arm-none-eabi/include/sys/config.h:
+
+/usr/arm-none-eabi/include/machine/ieeefp.h:
+
+/usr/arm-none-eabi/include/sys/features.h:
+
+../../../../beebs/src/nettle-des/desCode.h:
+
+../../../../beebs/src/nettle-des/keymap.h:
+
+../../../../beebs/src/nettle-des/rotors.h:

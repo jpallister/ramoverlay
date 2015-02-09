@@ -1,0 +1,1 @@
+fast.rev.d12.o: ../../../../beebs/src/stringsearch1/fast.rev.d12.c

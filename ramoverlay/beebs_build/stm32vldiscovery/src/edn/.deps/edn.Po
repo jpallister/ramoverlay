@@ -1,0 +1,4 @@
+edn.o: ../../../../beebs/src/edn/edn.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

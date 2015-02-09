@@ -1,0 +1,4 @@
+expint.o: ../../../../beebs/src/expint/expint.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

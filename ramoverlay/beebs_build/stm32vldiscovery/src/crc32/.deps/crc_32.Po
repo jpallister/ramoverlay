@@ -1,0 +1,7 @@
+crc_32.o: ../../../../beebs/src/crc32/crc_32.c \
+ ../../../../beebs/src/crc32/crc.h \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/crc32/crc.h:
+
+../../../../beebs/src/platformcode/platformcode.h:

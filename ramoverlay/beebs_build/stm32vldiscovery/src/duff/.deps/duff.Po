@@ -1,0 +1,4 @@
+duff.o: ../../../../beebs/src/duff/duff.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

@@ -1,0 +1,4 @@
+insertsort.o: ../../../../beebs/src/insertsort/insertsort.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

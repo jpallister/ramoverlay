@@ -1,0 +1,4 @@
+all-types.o: ../../../../beebs/src/gdb-all-types/all-types.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

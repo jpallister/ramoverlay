@@ -1,0 +1,7 @@
+sha_driver.o: ../../../../beebs/src/sha/sha_driver.c \
+ ../../../../beebs/src/platformcode/platformcode.h \
+ ../../../../beebs/src/sha/sha.h
+
+../../../../beebs/src/platformcode/platformcode.h:
+
+../../../../beebs/src/sha/sha.h:

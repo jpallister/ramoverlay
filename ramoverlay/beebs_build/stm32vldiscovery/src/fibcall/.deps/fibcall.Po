@@ -1,0 +1,4 @@
+fibcall.o: ../../../../beebs/src/fibcall/fibcall.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

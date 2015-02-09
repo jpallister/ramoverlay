@@ -1,0 +1,4 @@
+cnt.o: ../../../../beebs/src/cnt/cnt.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:

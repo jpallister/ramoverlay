@@ -1,0 +1,7 @@
+arraysort1.o: ../../../../beebs/src/sglib-arraysort1/arraysort1.c \
+ ../../../../beebs/src/platformcode/platformcode.h \
+ ../../../../beebs/src/sglib-arraysort1/sglib.h
+
+../../../../beebs/src/platformcode/platformcode.h:
+
+../../../../beebs/src/sglib-arraysort1/sglib.h:

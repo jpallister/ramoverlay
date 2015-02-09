@@ -1,0 +1,4 @@
+nsichneu.o: ../../../../beebs/src/nsichneu/nsichneu.c \
+ ../../../../beebs/src/platformcode/platformcode.h
+
+../../../../beebs/src/platformcode/platformcode.h:
